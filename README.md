@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <img src="header-flores.jpg" style="borderradius : 30px">
+  <img src="header-flores.jpg" height="250px">
 </div>
