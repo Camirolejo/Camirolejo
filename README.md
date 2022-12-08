@@ -4,6 +4,6 @@
 ⚘ Estudio programación en la **UTN** desde hace 1 año.<br>
 ⚘ Actualmente estoy aprendiendo desarrollo web.<br>
 
-<div aling="center">
-<img src="header-flores.jpg" height="300px" border-radius : "30px">
+<div align="center">
+<img src="header-flores.jpg" height="300px" borderRadius : "30px">
 </div>
