@@ -5,5 +5,5 @@
 ⚘ Actualmente estoy aprendiendo desarrollo web.<br>
 
 <div aling="center">
-<img src="header-flores.jpg" height="200px" style="border-radius : 30px">
+<img src="header-flores.jpg" height="300px" border-radius : "30px">
 </div>
